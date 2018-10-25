@@ -1,0 +1,24 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jibzo/github.io/thevault",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibzo/vault.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jibzo/vault/issues"
+  },
+  "description": ""
+}
